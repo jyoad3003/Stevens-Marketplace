@@ -1,0 +1,26 @@
+{
+  "name": "stevens-marketplace",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A community collaboration platform for Stevens Institute of Technology",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stevens",
+    "marketplace",
+    "collaboration"
+  ],
+  "author": "Jyotiraditya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongodb": "^6.21.0",
+    "xss": "^1.0.15"
+  }
+}
