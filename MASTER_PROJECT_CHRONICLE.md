@@ -58,6 +58,14 @@ All technical documentation, tutoring lessons, architectural rationales, and deb
    * Upcoming technical sprints: `connect-mongo` session persistence, real-time WebSockets chat, automated email notifications.
    * Complete operational guide for successor AI agents and pair programmers.
 
+7. [**07. Stevens Marketplace v2.0: Enterprise Architecture & Budget Blueprint**](./docs/07_V2_ENTERPRISE_ARCHITECTURE_AND_BUDGET_BLUEPRINT.md)
+   * **The 3-Tier Enterprise Collaboration Ecosystem:** External Organizations & Internal Stevens Depts $\rightarrow$ Faculty Mentors (PIs) $\rightarrow$ Student Talent.
+   * **The "Buffet of Funding" Taxonomy:** Corporate Sponsorships, Grants, Fellowships, Bounties, Hourly Pay, and Capstone Credits.
+   * **Multi-Plugin Student Credential Engine:** PDF Resumes (LLM extracted), verified GitHub repos/commits, Stevens transcripts, and external badges.
+   * **Real-Time AI Interviewer & Vetting Gateway:** Automated technical & behavioral candidate interviews generating an Evidence Dossier for Mentors.
+   * **Comprehensive Infrastructure Billing Report for Prof. Lippizzi:** Cost-optimized monthly budget ($30.50 – $68.50/mo for pilot; $170 – $220/mo for full rollout).
+   * **Developer Tooling Strategy:** Claude Pro subscriptions vs. Anthropic API cost-risk analysis for the student dev team.
+
 ---
 
 ## 🛠️ Quick Start Reference for Developers
