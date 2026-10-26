@@ -78,17 +78,21 @@ Comprehensive pedagogical chronicles, architectural diagrams, debugging post-mor
 
 ---
 
-## 🚀 Immediate Next Sprints for Claude Code
+## ⏸️ REPOSITORY STATUS: AWAITING OFFICIAL PROFESSOR CARLO & STEVE MEETING
 
-When starting work on v2.0, execute these sequential sprints:
+> **CRITICAL DIRECTIVE FOR CLAUDE CODE IN THIS REPOSITORY:**  
+> **DO NOT IMPLEMENT, MODIFY, OR EXECUTE ANY SPRINTS IN THIS DIRECTORY.**  
+> This repository represents the pristine, live production baseline currently deployed on Render and Vercel. It must remain stable and untouched until the official university collaboration begins.
 
-1. **Sprint 1 (Organizations Entity & Scoping):**
-   - Create `server/data/organizations.js` and `server/routes/organizations.js`.
-   - Update `CreateProjectPage.jsx` to support the **Buffet of Funding** taxonomy (Corporate Sponsorship, Grants, Fellowships, Bounties, Hourly Pay, Capstone).
-2. **Sprint 2 (Multi-Plugin Student Credentials):**
-   - Implement PDF Resume upload (Cloudflare R2 integration) and structured LLM extraction.
-   - Integrate GitHub API synchronization for verified commit and repository stats.
-3. **Sprint 3 (Automated AI Interviewer Gateway):**
-   - Build the interactive applicant interview modal on `ProjectDetailPage.jsx`.
-   - Generate technical & behavioral questions tailored to the project and candidate background.
-   - Output the **Candidate Vetting Dossier** into the `MentorDashboard.jsx`.
+### Latest Project Update (October 2024 / Present):
+**Professor Carlo Lipizzi, Ph.D.** (Director, Center for Complex Systems & Enterprises) has connected lead developer Jyotiraditya with **Naveen** (lead on the Stevens STEVE platform) with the following mandate:
+> *"I'm working with Jyotiraditya and a few other former students of mine on a project to create a 'marketplace' for Stevens research projects.*
+> *This would facilitate students, mentors and sponsors to start research initiatives (that could end up as papers, prototypes, funded activities, proposals, added value to education).*
+> *Like most of the web services, it's a match game, maximizing the matching of the needs of the actors. The better the identification of the individual characteristics, the more successful the match would be.*
+> *In this system, the student part would benefit from the data gathering portion of **Steve**: reading the resume and getting the key points, along with an interview, generating a profile for the matches.*
+> *If this is compatible with the current developments for Steve, could we schedule a meeting to explore how it could be done?"*
+
+### Action Protocol for this Repository:
+1. **Stand By:** Wait for further updates from the developer after the joint meeting between Professor Carlo, Naveen, and Jyotiraditya.
+2. **Funding Gate:** Official implementation sprints and integration with STEVE will be executed in this repository once university funding, enterprise subscriptions, and technical API specifications are finalized.
+3. **Personal Experimentation Sandbox:** If the developer wishes to build or test v2 features independently for portfolio purposes, that work is carried out strictly in the separate cloned repository: `stevens-marketplace-personal-v2`.
